@@ -4,7 +4,11 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+ <<<<<<< dependabot/npm_and_yarn/javascript/lodash-4.17.21
     "hot-formula-parser": "^3.0.0",
+ =======
+    "hot-formula-parser": "^4.0.0",
+ >>>>>>> main
     "lodash": "^4.17.21"
   }
 }
